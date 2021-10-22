@@ -1,0 +1,16 @@
+PODS:
+  - Frame.swift (0.1.0)
+
+DEPENDENCIES:
+  - Frame.swift (from `../`)
+
+EXTERNAL SOURCES:
+  Frame.swift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Frame.swift: 8d25f2539f36a97fd5e444642774f8c7534dcd51
+
+PODFILE CHECKSUM: e6175a5bbef8d7aa60ea5adf89967b84aff8426c
+
+COCOAPODS: 1.10.1
